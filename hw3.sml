@@ -1,4 +1,4 @@
-(* Coursera Programming Languages, Homework 3, Provided Code *)
+(* Coursera Programming Languages, Homework 3, Provided Code (answers below)*)
 
 exception NoAnswer
 
